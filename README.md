@@ -1,0 +1,2 @@
+# robotcontro
+Smart method training 
